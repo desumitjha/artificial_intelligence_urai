@@ -1,0 +1,6 @@
+Team meeting notes, 12 March.
+The data platform migration to Azure Databricks is on track. The bronze and silver layers are finished and tested.
+The gold layer needs two more weeks because the finance team changed the reporting rules.
+Risks: the data quality checks fail on about 2 percent of customer records because of missing postcodes.
+Decisions: we will quarantine the failing records instead of blocking the pipeline, and review them every Friday.
+Next steps: finish the gold layer, train two new analysts on Unity Catalog, and present the results to management on 28 March.
