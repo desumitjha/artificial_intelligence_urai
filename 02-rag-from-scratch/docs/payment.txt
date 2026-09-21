@@ -1,0 +1,5 @@
+Payment
+
+We accept credit cards, PayPal and bank transfer. Payment is taken when your order ships, not when you place it.
+
+Invoices are sent by email after shipping. Bank transfers must be completed within 7 days.
